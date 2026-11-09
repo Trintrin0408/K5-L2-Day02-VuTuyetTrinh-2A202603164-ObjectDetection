@@ -14,3 +14,7 @@ __pycache__/
 
 # macOS
 .DS_Store
+
+# Bản clone do notebook tạo khi chạy local
+notebooks/Day2-Lab/
+Day2-Lab/
